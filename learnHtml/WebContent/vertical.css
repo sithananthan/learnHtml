@@ -1,0 +1,93 @@
+ul.ex1 {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	
+}
+
+ul.ex1 li a {
+	text-decoration: none; 
+	font-family: Georgia, Times, "Times New Roman";
+	background-color: #5c755e;
+	color: white;
+	display: block;
+	width: 80px;
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid red;
+	border-radius: 2px;
+	text-align: center;
+	height: 25px;
+	line-height: 25px;
+}
+
+ul.ex1 li a:hover{
+	background-color: #d3d3d3;
+	color: black;
+	
+}
+
+#nav {
+	background-color: darkgreen;
+	height: 35px;
+	font-size: 25px;
+	font-weight: bold;
+	font: Tahoma;
+}
+
+#nav ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	text-align: center;
+	
+}
+
+#nav ul li {
+	display: inline;
+	padding: 15px;
+	vertical-align: middle;
+}
+
+#nav ul li a {
+	text-decoration: none;
+	padding:  8px 8px 8px 8px;
+	color: white;
+	vertical-align: middle;
+}
+
+#nav ul li a:hover {
+	color: black;
+	background-color: white;
+	cursor: none;
+}
+
+ul.ex2 li a {
+	background: #e7e7e7;
+	border: 1px solid;
+	border-radius: 3px;
+	font: 700 13px Helvetica Arial;
+	height: 32px;
+	line-height: 28px;
+	padding: 0 20px;
+	text-align: center;
+	margin-right: 10px;
+	color : #666;
+	text-decoration: blink;
+	float: left;
+}
+
+ul.ex2 {
+	padding: 0;
+	list-style-type: none;
+}
+
+ul.ex2 li {
+	display: inline;
+}
+
+ul.ex2 li a:hover {
+	color: #000;
+	background-color: #dadada;
+}
+

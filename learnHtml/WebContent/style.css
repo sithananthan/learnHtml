@@ -1,0 +1,103 @@
+h1 {
+	color:red;
+border-top: 1px solid black;
+text-decoration: underline;
+text-align: center;
+}
+.blue {
+background: green;
+color: white;
+}
+.underline {
+text-decoration: underline;
+
+}
+
+
+p.para1 {
+	
+	color:red;
+	font-size: large;
+	line-height: 5mm;
+	padding: 20px;
+	padding-bottom: 40px;
+	border-color: green;
+	border-width: 3px;
+	border-style: ridge;
+	border-radius:10px;
+	background-image: url("clouds.jpg");
+	
+}
+
+#para2homepage {
+	
+	background-color: white;
+	color:blue;
+	font-size: small;
+	line-height: 5mm;
+	padding: 20px;
+	padding-bottom: 40px;
+	border-color: green;
+	border-width: 5px;
+	border-style: solid;
+	margin:20px;
+	margin-top: 40px;
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 30px;
+	overflow: scroll;
+	
+}
+
+img.imagec {
+	
+	display: block;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+	padding :3px;
+	background-color: silver;
+	border-color: green;
+	border-width: 5px;
+	border-style: solid;
+	
+}
+
+body {
+	background-color: #ffcf79;
+font-family: Verdana;
+font-size: large; 
+font-weight: 100;
+}
+
+div.divtop {
+	color: black;
+}
+
+#divbot {
+	color: black;
+}
+#top {
+	position: fixed;
+	margin-left: 50%;
+	margin-right: 50%;
+}
+
+span.highlight {
+	font-style: italic;
+	font-weight: bold;
+	background-color: green;
+	
+}
+
+a:link {
+	color : blue;
+}
+
+a:visited {
+	color:  black;
+}
+
+a:hover {
+	color : #F15A51;
+}
